@@ -1,2 +1,2 @@
-# wedding
+# Wedding
 Wedding
